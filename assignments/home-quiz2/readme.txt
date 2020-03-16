@@ -1,0 +1,1 @@
+Find accuracy, precision, recall, f1_score and confusion matrix for the Movies_TV dataset keeping the training size to 80% of the total datset. Use train_test_split for separating the dataset into training test part.
